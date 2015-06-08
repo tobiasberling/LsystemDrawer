@@ -29,6 +29,8 @@ private slots:
 
     void on_lineColorPickerButton_clicked();
 
+    void runTests();
+
 private:
     Ui::MainWindow *ui;
     LSystem* lsystem;
